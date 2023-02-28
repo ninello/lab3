@@ -1,5 +1,5 @@
 def proc1():
-    n = int(input('Введите нужное количество слов: '))
+    n = int(input('Введите нoiжное количество слов: '))
     result = ''
     for i in range(n):
         x = input(f"ввод слов {i + 1}:")
